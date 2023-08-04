@@ -39,8 +39,8 @@
     },
     {
       "name": "Wrapped BTC",
-      "symbol": "BTCM",
-      "address": "0x880c965d5e65889d3dE3CdA5971bdeA19C9f258a",
+      "symbol": "WBTC",
+      "address": "0xd4B07609A5A9B6640024Dbd401c4Fd9AF5b6A7f6",
       "chainId": 761412,
       "decimals": 8,
       "logoURI": "https://tokens.pancakeswap.finance/images/eth/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599.png"
