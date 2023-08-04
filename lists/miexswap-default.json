@@ -34,7 +34,7 @@
       "symbol": "USDT",
       "address": "0x1c032c5E27A91eC27533e53B89405C68759BA563",
       "chainId": 761412,
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/eth/0xdAC17F958D2ee523a2206206994597C13D831ec7.png"
     },
     {
