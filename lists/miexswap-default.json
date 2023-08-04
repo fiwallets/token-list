@@ -1,0 +1,65 @@
+{
+  "name": "MiexsSwap Default",
+  "timestamp": "2023-08-03T07:57:16.573Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 21
+  },
+  "logoURI": "https://pancakeswap.finance/logo.png",
+  "keywords": [
+    "miexsswap",
+    "default",
+    "miexs"
+  ],
+  "tokens": [
+    {
+      "name": "Wrapped MIX",
+      "symbol": "WMIX",
+      "address": "0x449ff526a3D42c5293e19D68FA3c8D44ac47ee99",
+      "chainId": 761412,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/eth/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2.png"
+    },
+    {
+      "name": "Ethereum Token",
+      "symbol": "ETH",
+      "address": "0xb5a3137bb79EBE487f2d2Ee3db388B415Cd01D2b",
+      "chainId": 761412,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0x1c032c5E27A91eC27533e53B89405C68759BA563",
+      "chainId": 761412,
+      "decimals": 6,
+      "logoURI": "https://tokens.pancakeswap.finance/images/eth/0xdAC17F958D2ee523a2206206994597C13D831ec7.png"
+    },
+    {
+      "name": "Wrapped BTC",
+      "symbol": "BTCM",
+      "address": "0x880c965d5e65889d3dE3CdA5971bdeA19C9f258a",
+      "chainId": 761412,
+      "decimals": 8,
+      "logoURI": "https://tokens.pancakeswap.finance/images/eth/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599.png"
+    },
+    {
+      "name": "MieSwap Token",
+      "symbol": "MIEXS",
+      "address": "0x3e7B34E7788638DafDF1A1c68aC97c1841877EFD",
+      "chainId": 761412,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/eth/0x152649eA73beAb28c5b49B26eb48f7EAD6d4c898.png"
+    },    
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0xfddaEc48aCa60294f814aB0cAc718491B3F64DDb",
+      "chainId": 761412,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/symbol/busd.png"
+    }
+  ]
+}
