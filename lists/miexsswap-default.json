@@ -46,12 +46,12 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/eth/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599.png"
     },
     {
-      "name": "MieSwap Token",
+      "name": "MiesSwap Token",
       "symbol": "MIEXS",
-      "address": "0x3e7B34E7788638DafDF1A1c68aC97c1841877EFD",
+      "address": "0xc4da43EC4C5Ed49dEEc75e1995d095b89b42Aba4",
       "chainId": 761412,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/fiwallets/token-list/miexs/lists/images/0x3e7B34E7788638DafDF1A1c68aC97c1841877EFD.png"
+      "logoURI": "https://raw.githubusercontent.com/fiwallets/token-list/miexs/lists/images/0xc4da43EC4C5Ed49dEEc75e1995d095b89b42Aba4.png"
     },    
     {
       "name": "BUSD Token",
